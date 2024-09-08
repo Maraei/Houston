@@ -1,0 +1,40 @@
+body {
+	width: 70%;
+	margin: auto;
+}
+h1, h2, h3{
+    font-family: sans-serif;
+    margin-top:1.5em;
+}
+h1{
+    font-size:32px;
+    color:rgb(0, 70, 70);
+}
+table, th, td{
+    border:1px solid black;
+}
+figcaption{
+    font-family:italic;
+}
+figure{
+    float:right;
+}
+html {
+    background: url(DeJnKv606QyR2dD4lpgO.jpg) no-repeat fixed;
+    background-size: cover;
+}
+body{
+    background-color: rgb(221, 245, 255);
+}
+table{
+    background-color:rgb(255, 238, 190);
+}
+th{
+    background-color:rgb(255, 219, 190);
+}
+td{
+    background-color:rgb(255, 249, 231);
+}
+h2{
+    color:rgb(2, 105, 109);
+}
